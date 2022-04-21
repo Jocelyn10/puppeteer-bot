@@ -1,7 +1,7 @@
 {
   "name": "test-puppeteer-bot",
   "version": "1.0.0",
-  "description": "Inspiration link : \r https://03balogun.medium.com/building-an-instagram-bot-using-nodejs-puppeteer-and-firebase-28ebb93784d6",
+  "description": "In this project, I will learn how to use Puppeteer to automate a web page",
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
