@@ -10,6 +10,7 @@ These instructions will get you a copy of the project up and running on your loc
 - Edit the `puppeter.json` set your username, password and add more hashtags if you like.
 - Then do `npm install` in terminal to install project dependencies
 - Be sure to use the correct selector for the data you want to scrape
+- Create your env file and add your personal credentials
 - run `node index.js` to start project
 
 ### Prerequisites
