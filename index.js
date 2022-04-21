@@ -21,9 +21,8 @@ const getInstagramPreview = async (link) => {
 
   let data = {};
 
-  /*
-   * Be sure to use the correct selector for the data you want to scrape
-   */
+  // Be sure to use the correct selector for the data you want to scrape
+
   data.title = await page.$eval(
     "head > meta[property='og:title']",
     (element) => element.content
